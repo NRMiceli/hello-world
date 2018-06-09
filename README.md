@@ -1,4 +1,5 @@
 # hello-world
+Added to master to create third conflict
 Test
 I added this on the second merge request.
 I added this too.
